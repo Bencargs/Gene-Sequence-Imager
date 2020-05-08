@@ -27,7 +27,7 @@ These sections of low of low mutation can be highlighted by by overlaying sequen
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/Heatmap.png">
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/viridisScale.png" height="173">
 </p>
-Darker areas indicate lower mutation frequency - [viridis scale](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
+Using the Viridis scale where darker areas indicate lower mutation frequency https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
 
 
 Future work:
