@@ -15,7 +15,7 @@ eg. [2020-03-2020.txt](https://github.com/Bencargs/Gene-Sequence-Imager/blob/mas
 As the sequence of the virus is 29,841 nucleotides long, an image of 174x174 can be constructed. 
 Assigning colours to each of the bases; g = red, a = blue, c = green, t = yellow, and n = white (where n represents any Nucleotide)
 
-Producing an image represenging virual RNA -
+Producing an image represenging viral RNA -
 <p align="center">
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/AUS%2025-01-2020.png">
 </p>
@@ -27,8 +27,7 @@ These sections of low of low mutation can be highlighted by by overlaying sequen
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/Heatmap.png">
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/viridisScale.png" height="173">
 </p>
-Using [viridis scale](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
-where darker areas indicate lower mutation frequency.
+Darker areas indicate lower mutation frequency - [viridis scale](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html)
 
 
 Future work:
