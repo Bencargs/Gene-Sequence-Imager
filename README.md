@@ -22,7 +22,7 @@ Producing an image represenging viral RNA -
 
 As the virus mutates over time, sections of the genome change at differant rates.
 sections critical to the virus' function and survival should remain unchanged however.
-These sections of low of low mutation can be highlighted by by overlaying sequence images into a heatmap.
+These sections of low mutation can be highlighted by by overlaying sequence images into a heatmap.
 <p align="center">
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/Heatmap.png">
   <img src="https://github.com/Bencargs/Gene-Sequence-Imager/blob/master/viridisScale.png" height="173">
